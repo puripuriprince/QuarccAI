@@ -1,3 +1,5 @@
+School website with, internal tools, ask the AI agent about anything and itll help out best it can, dashboard for courses and prof ratings. Other tools incoming
+
 frontend is the looks
 
 backend has users and the AI stuff
